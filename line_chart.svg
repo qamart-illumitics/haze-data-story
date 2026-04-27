@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1500"
+   height="500"
+   version="1.1"
+   id="svg46"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs46">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path55" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(100,80)"
+     id="g46">
+    <g
+       transform="translate(0,340)"
+       fill="none"
+       font-size="10"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g25">
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,0)"
+         id="g1">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line1" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text1">02 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(50.261780104712045,0)"
+         id="g2">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line2" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text2">02 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(100.52356020942409,0)"
+         id="g3">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line3" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text3">02 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(150.7853403141361,0)"
+         id="g4">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line4" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text4">03 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(201.04712041884818,0)"
+         id="g5">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line5" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text5">03 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(251.3089005235602,0)"
+         id="g6">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line6" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text6">03 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(301.5706806282722,0)"
+         id="g7">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line7" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text7">04 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(351.83246073298426,0)"
+         id="g8">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line8" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text8">04 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(402.09424083769636,0)"
+         id="g9">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line9" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text9">04 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(452.3560209424084,0)"
+         id="g10">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line10" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text10">05 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(502.6178010471204,0)"
+         id="g11">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line11" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text11">05 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(552.8795811518324,0)"
+         id="g12">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line12" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text12">05 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(603.1413612565444,0)"
+         id="g13">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line13" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text13">06 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(653.4031413612565,0)"
+         id="g14">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line14" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text14">06 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(703.6649214659685,0)"
+         id="g15">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line15" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text15">06 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(753.9267015706806,0)"
+         id="g16">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line16" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text16">07 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(804.1884816753927,0)"
+         id="g17">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line17" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text17">07 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(854.4502617801047,0)"
+         id="g18">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line18" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text18">07 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(904.7120418848168,0)"
+         id="g19">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line19" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text19">08 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(954.9738219895287,0)"
+         id="g20">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line20" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text20">08 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1005.2356020942408,0)"
+         id="g21">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line21" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text21">08 Apr 04 PM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1055.497382198953,0)"
+         id="g22">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line22" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text22">09 Apr 12 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1105.7591623036649,0)"
+         id="g23">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line23" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text23">09 Apr 08 AM</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(1156.020942408377,0)"
+         id="g24">
+        <line
+           stroke="currentColor"
+           y2="6"
+           id="line24" />
+        <text
+           fill="currentColor"
+           y="9"
+           dy="0.71em"
+           transform="rotate(-30)"
+           style="text-anchor: end;"
+           id="text24">09 Apr 04 PM</text>
+      </g>
+    </g>
+    <line
+       x1="-22"
+       x2="1200"
+       y1="340"
+       y2="340"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line25"
+       style="stroke-width:1.1;stroke-dasharray:none;stroke:#00000f;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="302.22222222222223"
+       y2="302.22222222222223"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line26"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="264.44444444444446"
+       y2="264.44444444444446"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line27"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="226.66666666666669"
+       y2="226.66666666666669"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line28"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="188.88888888888889"
+       y2="188.88888888888889"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line29"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="151.11111111111111"
+       y2="151.11111111111111"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line30"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="113.33333333333334"
+       y2="113.33333333333334"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line31"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="75.55555555555556"
+       y2="75.55555555555556"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line32"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="37.77777777777779"
+       y2="37.77777777777779"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line33"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <line
+       x1="-22"
+       x2="1200"
+       y1="0"
+       y2="0"
+       stroke="#e0e0e0"
+       stroke-width="0.5"
+       id="line34"
+       style="stroke-dasharray:1, 2.99999987;stroke-dashoffset:0;stroke-width:1;stroke:#636363;stroke-opacity:1" />
+    <g
+       fill="none"
+       font-size="10"
+       font-family="sans-serif"
+       text-anchor="end"
+       id="g45">
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,340)"
+         id="g35">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text35">0</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,302.22222222222223)"
+         id="g36">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text36">10</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,264.44444444444446)"
+         id="g37">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text37">20</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,226.66666666666669)"
+         id="g38">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text38">30</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,188.88888888888889)"
+         id="g39">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text39">40</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,151.11111111111111)"
+         id="g40">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text40">50</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,113.33333333333334)"
+         id="g41">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text41">60</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,75.55555555555556)"
+         id="g42">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text42">70</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,37.77777777777779)"
+         id="g43">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text43">80</text>
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0,0)"
+         id="g44">
+        <text
+           fill="currentColor"
+           x="-9"
+           dy="-0.3em"
+           id="text44">90</text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10.6667px;line-height:0;text-align:start;letter-spacing:1px;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:121.134;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="1210.291"
+         y="141.58113"
+         id="text50"
+         transform="matrix(1.0877136,0,0,1.0877136,-554.67486,-66.283207)"><tspan
+           x="1210.291"
+           y="141.58113"
+           id="tspan6"><tspan
+             style="font-weight:bold;font-size:13.3333px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Bold'"
+             id="tspan2">NEA 24-hr PSI</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.6667px;line-height:0;text-align:start;letter-spacing:1px;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:150.41;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="1210.291"
+         y="141.58113"
+         id="text50-6"
+         transform="matrix(1.0877136,0,0,1.0877136,-293.55704,-75.510107)"><tspan
+           x="1210.291"
+           y="141.58113"
+           id="tspan8"><tspan
+             style="font-weight:bold;font-size:13.3333px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Bold'"
+             id="tspan7">SG Real Hourly PSI </tspan></tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.0956;stroke-linejoin:round;stroke-dasharray:8.38246, 2.0956;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+         d="m 759.96968,83.394872 c -14.73973,-0.656915 -29.20927,-0.0495 -38.32952,25.590888"
+         id="path52" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.69942;stroke-linejoin:round;stroke-dasharray:10.7977, 2.69942;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker55)"
+         d="m 1042.5759,82.952958 c -8.138,13.280849 -20.126,24.636582 -44.24197,29.928382"
+         id="path54" />
+    </g>
+    <path
+       fill="none"
+       stroke="#4e79a7"
+       stroke-width="1.5"
+       d="M0,132.222L6.283,136L12.565,136L18.848,136L25.131,139.778L31.414,139.778L37.696,139.778L43.979,139.778L50.262,143.556L56.545,143.556L62.827,143.556L69.11,143.556L75.393,143.556L81.675,143.556L87.958,143.556L94.241,147.333L100.524,147.333L106.806,151.111L113.089,154.889L119.372,158.667L125.654,154.889L131.937,147.333L138.22,143.556L144.503,143.556L150.785,139.778L157.068,139.778L163.351,139.778L169.634,139.778L175.916,139.778L182.199,139.778L188.482,139.778L194.764,139.778L201.047,139.778L207.33,139.778L213.613,139.778L219.895,143.556L226.178,139.778L232.461,139.778L238.743,139.778L245.026,139.778L251.309,143.556L257.592,143.556L263.874,143.556L270.157,143.556L276.44,143.556L282.723,147.333L289.005,147.333L295.288,158.667L301.571,162.444L307.853,162.444L314.136,162.444L320.419,154.889L326.702,147.333L332.984,147.333L339.267,147.333L345.55,147.333L351.832,147.333L358.115,147.333L364.398,147.333L370.681,143.556L376.963,143.556L383.246,143.556L389.529,143.556L395.812,143.556L402.094,143.556L408.377,143.556L414.66,143.556L420.942,143.556L427.225,139.778L433.508,139.778L439.791,143.556L446.073,143.556L452.356,139.778L458.639,139.778L464.921,139.778L471.204,143.556L477.487,143.556L483.77,143.556L490.052,139.778L496.335,139.778L502.618,143.556L508.901,143.556L515.183,143.556L521.466,143.556L527.749,147.333L534.031,147.333L540.314,147.333L546.597,147.333L552.88,147.333L559.162,147.333L565.445,147.333L571.728,147.333L578.01,147.333L584.293,143.556L590.576,143.556L596.859,143.556L603.141,143.556L609.424,143.556L615.707,143.556L621.99,143.556L628.272,143.556L634.555,143.556L640.838,143.556L647.12,143.556L653.403,143.556L659.686,139.778L665.969,139.778L672.251,139.778L678.534,136L684.817,132.222L691.099,132.222L697.382,128.444L703.665,128.444L709.948,128.444L716.23,128.444L722.513,128.444L728.796,128.444L735.079,128.444L741.361,132.222L747.644,132.222L753.927,136L760.209,136L766.492,136L772.775,136L779.058,139.778L785.34,143.556L791.623,143.556L797.906,147.333L804.188,154.889L810.471,166.222L816.754,173.778L823.037,181.333L829.319,192.667L835.602,204L841.885,204L848.168,211.556L854.45,215.333L860.733,215.333L867.016,215.333L873.298,219.111L879.581,219.111L885.864,215.333L892.147,211.556L898.429,207.778L904.712,207.778L910.995,204L917.277,200.222L923.56,196.444L929.843,192.667L936.126,192.667L942.408,185.111L948.691,177.556L954.974,166.222L961.257,154.889L967.539,147.333L973.822,143.556L980.105,143.556L986.387,143.556L992.67,143.556L998.953,143.556L1005.236,143.556L1011.518,143.556L1017.801,143.556L1024.084,143.556L1030.366,143.556L1036.649,147.333L1042.932,143.556L1049.215,147.333L1055.497,147.333L1061.78,143.556L1068.063,147.333L1074.346,147.333L1080.628,143.556L1086.911,143.556L1093.194,143.556L1099.476,143.556L1105.759,143.556L1112.042,143.556L1118.325,147.333L1124.607,147.333L1130.89,143.556L1137.173,143.556L1143.455,143.556L1149.738,143.556L1156.021,143.556L1162.304,143.556L1168.586,143.556L1174.869,143.556L1181.152,143.556L1187.435,143.556L1193.717,143.556L1200,143.556"
+       id="path45"
+       style="stroke-width:2.5;stroke-dasharray:none;stroke:#fcbba1;stroke-opacity:1" />
+    <path
+       fill="none"
+       stroke="#f28e2c"
+       stroke-width="1.5"
+       d="M0,181.333L6.283,166.222L12.565,245.556L18.848,151.111L25.131,143.556L31.414,132.222L37.696,139.778L43.979,132.222L50.262,132.222L56.545,113.333L62.827,113.333L69.11,128.444L75.393,230.444L81.675,230.444L87.958,260.667L94.241,230.444L100.524,147.333L106.806,245.556L113.089,215.333L119.372,196.444L125.654,139.778L131.937,113.333L138.22,113.333L144.503,102L150.785,120.889L157.068,124.667L163.351,166.222L169.634,147.333L175.916,151.111L182.199,196.444L188.482,139.778L194.764,124.667L201.047,143.556L207.33,105.778L213.613,105.778L219.895,260.667L226.178,196.444L232.461,196.444L238.743,245.556L245.026,245.556L251.309,260.667L257.592,260.667L263.874,215.333L270.157,181.333L276.44,260.667L282.723,181.333L289.005,143.556L295.288,151.111L301.571,166.222L307.853,124.667L314.136,139.778L320.419,102L326.702,113.333L332.984,151.111L339.267,128.444L345.55,139.778L351.832,124.667L358.115,128.444L364.398,113.333L370.681,124.667L376.963,147.333L383.246,230.444L389.529,181.333L395.812,230.444L402.094,215.333L408.377,260.667L414.66,196.444L420.942,147.333L427.225,166.222L433.508,215.333L439.791,196.444L446.073,147.333L452.356,128.444L458.639,90.667L464.921,196.444L471.204,147.333L477.487,143.556L483.77,113.333L490.052,117.111L496.335,132.222L502.618,143.556L508.901,147.333L515.183,147.333L521.466,128.444L527.749,260.667L534.031,230.444L540.314,166.222L546.597,230.444L552.88,275.778L559.162,230.444L565.445,245.556L571.728,166.222L578.01,147.333L584.293,139.778L590.576,117.111L596.859,128.444L603.141,128.444L609.424,143.556L615.707,143.556L621.99,132.222L628.272,113.333L634.555,105.778L640.838,132.222L647.12,117.111L653.403,132.222L659.686,117.111L665.969,124.667L672.251,98.222L678.534,90.667L684.817,90.667L691.099,196.444L697.382,132.222L703.665,139.778L709.948,196.444L716.23,260.667L722.513,166.222L728.796,166.222L735.079,245.556L741.361,245.556L747.644,181.333L753.927,166.222L760.209,166.222L766.492,215.333L772.775,215.333L779.058,230.444L785.34,166.222L791.623,245.556L797.906,275.778L804.188,290.889L810.471,275.778L816.754,181.333L823.037,166.222L829.319,230.444L835.602,196.444L841.885,181.333L848.168,260.667L854.45,196.444L860.733,215.333L867.016,290.889L873.298,215.333L879.581,181.333L885.864,151.111L892.147,181.333L898.429,132.222L904.712,143.556L910.995,143.556L917.277,147.333L923.56,143.556L929.843,151.111L936.126,151.111L942.408,128.444L948.691,124.667L954.974,117.111L961.257,120.889L967.539,105.778L973.822,117.111L980.105,196.444L986.387,215.333L992.67,196.444L998.953,230.444L1005.236,230.444L1011.518,230.444L1017.801,196.444L1024.084,260.667L1030.366,215.333L1036.649,181.333L1042.932,166.222L1049.215,143.556L1055.497,151.111L1061.78,117.111L1068.063,166.222L1074.346,143.556L1080.628,113.333L1086.911,139.778L1093.194,132.222L1099.476,139.778L1105.759,124.667L1112.042,124.667L1118.325,124.667L1124.607,113.333L1130.89,151.111L1137.173,196.444L1143.455,215.333L1149.738,181.333L1156.021,215.333L1162.304,215.333L1168.586,230.444L1174.869,215.333L1181.152,196.444L1187.435,196.444L1193.717,139.778L1200,151.111"
+       id="path46"
+       style="stroke:#de2d26;stroke-opacity:1;stroke-width:2.5;stroke-dasharray:none" />
+    <text
+       fill="currentColor"
+       x="14.768258"
+       id="text35-4"
+       y="-2.6787105"
+       style="font-size:10.8771px;font-family:sans-serif;text-anchor:end;stroke-width:1.08771">PSI</text>
+  </g>
+</svg>

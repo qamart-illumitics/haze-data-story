@@ -1,0 +1,416 @@
+body {
+    background-color: #fff;
+    padding: 2rem; /* #e8e3e3 New */
+    /*margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-bottom: 500px;*/
+}
+
+#intro {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    margin: 50px 20%; /* 50px top and bottom, 20% left and right for better responsiveness */
+    padding: 1%;
+}
+
+#intro h1 {
+    font-size: 3.5rem;  /* reduce from 20rem */
+    color: #000;
+    font-weight: 900;
+}
+
+#intro-text p {
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+#scrolly {
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+flex-direction: row-reverse;
+background-color: #fff;
+margin: 0 0;
+padding-left: 0px;
+padding-right: 10px;
+}
+
+#scrolly > * {
+-webkit-box-flex: 1;
+-ms-flex: 1;
+flex: 1;
+}
+
+article {
+position: relative;
+padding: 0 0.5rem;
+max-width: 30rem;
+flex: 0 0 25rem;
+}
+
+article h1,
+article p {
+font-family: 'Open Sans', sans-serif;
+}
+
+article p {
+font-size: large;
+}
+
+p {
+    line-height: 2;      /* space between lines */
+    letter-spacing: 0.3px; /* space between letters */
+    margin-bottom: 1.5rem; /* space between paragraphs */
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.sticky-thing {
+position: -webkit-sticky;
+position: sticky;
+width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+margin: 0;
+z-index: 0;
+top: 12.5vh;
+height: 75vh;
+/* Center everything inside */
+display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+padding-bottom: 5rem;
+background-color: #fff;
+}
+
+.sticky-thing svg {
+width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+height: auto; /* Changed from 600px to auto for better responsiveness */
+transition: opacity 0.6s ease;
+background-color: #fff;
+}
+
+/* Smooth fade on bar and legend groups */
+.sticky-thing svg rect,
+.sticky-thing svg g {
+transition: opacity 0.6s ease;
+}
+
+.step {
+margin: 0 auto 2rem auto;
+color: #000;
+font-family: 'Open Sans', sans-serif;
+padding-left: 0.5rem;
+padding-right: 0.25rem;
+}
+
+.step:last-child {
+margin-bottom: 0;
+}
+
+.step.is-active {
+background-color: #d2d2d2;
+color: #3b3b3b;
+}
+
+.step p {
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 1rem;
+text-align: left;
+}
+
+/* Static sections before scrolly */
+.static-section-text{
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #fff;
+margin: 50px 20%; /* 50px top and bottom, 20% left and right for better responsiveness */
+padding: 1%; /* Added padding for better spacing */
+}
+
+.static-section h1,
+.static-section p {
+width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+/*text-align: left;
+margin-bottom: 0.3rem;
+font-family: 'Open Sans', sans-serif;*/
+}
+
+.static-section h1 {
+font-size: 2rem;
+font-weight: 900;
+}
+
+.static-section p {
+font-size: 1.125rem;
+}
+
+.static-section svg {
+width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+height: auto; /* Changed from 600px to auto for better responsiveness */
+/*padding-top: 2rem;
+padding-bottom: 1.5rem;*/
+}
+
+.chart-title-container {
+    text-align: center;
+    margin: 50px 20% 0px; /* 50px top, 20% left and right for better responsiveness */
+}
+
+.chart-title {
+    text-align: center;    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #444;
+}
+
+.chart-container {
+    width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+    height: 100%; /* Changed from 600px to 100% for better responsiveness */
+    max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+    margin: 0 auto;
+}
+
+#section-05 {
+    margin-bottom: rem;
+}
+
+.legend-trust text,
+.legend-challenges text,
+.legend-defenses text,
+.legend-explanations-of-psi text,
+.legend-alternatives-to-nea text,
+.legend-sensorial text {
+font-family:'Open Sans', sans-serif !important;
+}
+
+.tooltip {
+position: absolute;
+background: lightblue;
+border: 1px solid #ccc;
+padding: 8px 12px;
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+pointer-events: none;
+border-radius: 4px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+    margin: 20px 0;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+    table-layout: fixed;
+    
+}
+
+.table-container {
+    width: 1200px; /* Changed from 1200px to 100% for better responsiveness */
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+caption {
+    caption-side: top;
+}
+
+th, td {
+    border: none;
+    padding: 10px 15px;
+    text-align: left;
+    vertical-align: top;
+    font-family:'Open Sans', sans-serif;
+}
+
+th {
+    font-size: 1rem   ;
+    font-weight: 900;
+}
+
+td {
+    font-size: 1rem;
+}
+
+/* alternating row shading */
+tbody tr:nth-child(odd) {
+    background-color: #e8e3e3;  /* slightly darker than your #e8e3e3 background */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #fff;
+}
+
+tr {
+  border-bottom: 1px solid #636363; /* thin line between rows */
+}
+
+/* Set column widths */
+th:nth-child(1), td:nth-child(1) { width: 50%; }
+th:nth-child(2), td:nth-child(2) { width: 25%; }
+th:nth-child(3), td:nth-child(3) { width: 25%; }
+
+caption {
+    text-align: left;
+    padding-top: 10px;
+    color: #444;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.static-section .chart-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #444;
+    margin-bottom: 0.5rem;
+    width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+    max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+}
+
+.static-section table {
+    width: 1200px;
+    max-width: 100%;
+}
+
+.bar-chart-title {
+    margin: 0;
+    padding-top: 3rem;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%; /* Changed from 1200px to 100% for better responsiveness */
+    max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
+    margin: 2rem 0;
+}
+
+.quote-box {
+    flex: 1;
+    background-color: #e8e3e3;
+    padding: 1.5rem;
+    border-left: 4px solid #7d7d7d;
+}
+
+.quote-text {
+    font-size: 0.95rem;
+    font-style: italic;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.quote-attribution {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #525151;
+    margin: 0;
+}
+
+#psi-line-chart-container svg {
+    width: 100%;
+    height: auto;
+}
+
+#psi-line-chart-container {
+    width: 1200px;
+    max-width: 100%;
+}
+.tooltip {
+    position: fixed;
+    z-index: 9999;
+    opacity: 1 !important;
+    background: lightblue;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    pointer-events: none;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+.sticky-thing svg rect {
+    transition: opacity 0.6s ease, filter 0.6s ease;
+}
+
+footer {
+    background-color: #6c6b6b;
+    color: #fff;
+    padding: 3rem 2rem;
+    margin-top: 5rem;
+}
+
+.footer-container {
+    display: flex;
+    gap: 5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.footer-section {
+    flex: 1;
+}
+
+.footer-section h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 900;
+    color: #ccc;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+.footer-section a {
+    color: #fb6a4a;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    text-decoration: underline;
+}
+
+.footer-section-team h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 900;
+    color: #ccc;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.footer-section-team p {
+    color: #ccc;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+.footer-section-team a {
+    text-decoration: underline;
+    color: #ccc;
+    text-underline-offset: 4px;
+    text-decoration-color: #fb6a4a;
+}
