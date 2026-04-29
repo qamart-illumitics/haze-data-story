@@ -127,6 +127,8 @@ font-size: 1rem;
 text-align: left;
 }
 
+
+
 /* Static sections before scrolly */
 .static-section-text{
 display: flex;
@@ -289,7 +291,6 @@ caption {
 
 .bar-chart-title {
     margin: 0;
-    padding-top: 3rem;
 }
 
 .quote-container {
@@ -298,7 +299,6 @@ caption {
     gap: 1.5rem;
     width: 100%; /* Changed from 1200px to 100% for better responsiveness */
     max-width: 1200px; /* Optional: to prevent it from getting too wide on large screens */
-    margin: 2rem 0;
 }
 
 .quote-box {
@@ -416,6 +416,12 @@ footer {
 }
 
 @media (max-width: 768px) {
+
+    #intro {
+        margin: 30px 5%; /* Adjusted for smaller screens */
+        padding: 1%;
+    }
+
     #intro h1 {
         font-size: 2.2rem;
     }
@@ -433,6 +439,10 @@ footer {
         padding: 1rem;
     }
 
+    .static-section-text{
+        margin: 10px 2%; /* Adjusted for smaller screens */
+        padding: 1%;
+    }
     .static-section h1,
     .static-section p {
         width: 100%;
@@ -443,6 +453,14 @@ footer {
         height: auto;
     }
 
+    .chart-title-container {
+    margin: 10px 2%; /* 30px top, 20% left and right for better responsiveness */
+    }
+
+    .chart-container {
+        width: 100%;
+        height: auto;
+    }
 
     .footer-container {
         flex-direction: column;
@@ -455,11 +473,6 @@ footer {
 
     table {
         font-size: 0.8rem;
-    }
-
-    .static-section {
-        margin-bottom: 2rem;
-        padding: 5px;
     }
 
     .static-section h1 {
@@ -483,10 +496,6 @@ footer {
         margin-bottom: 1.5rem;
     }
 
-    .static-section {
-        margin-bottom: 1rem;
-        padding: 5px;
-    }
     table {
     table-layout: auto;
 }
@@ -499,4 +508,8 @@ th:nth-child(3), td:nth-child(3) { width: auto; }
     overflow-x: scroll;
     width: 100%;
 }
+
+article {
+    align-items: center;}
+
 }
