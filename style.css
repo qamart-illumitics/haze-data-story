@@ -496,20 +496,8 @@ footer {
         margin-bottom: 1.5rem;
     }
 
-    table {
-    table-layout: auto;
-}
-
-th:nth-child(1), td:nth-child(1) { width: auto; }
-th:nth-child(2), td:nth-child(2) { width: auto; }
-th:nth-child(3), td:nth-child(3) { width: auto; }
-
 .table-container {
     overflow-x: scroll;
     width: 100%;
 }
-
-article {
-    align-items: center;}
-
 }
