@@ -495,9 +495,4 @@ footer {
     section {
         margin-bottom: 1.5rem;
     }
-
-.table-container {
-    overflow-x: scroll;
-    width: 100%;
-}
 }
